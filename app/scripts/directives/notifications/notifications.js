@@ -6,7 +6,7 @@
  * @description
  * # adminPosHeader
  */
-angular.module('sbAdminApp')
+angular.module('simpleCRM')
 	.directive('notifications',function(){
 		return {
         templateUrl:'scripts/directives/notifications/notifications.html',

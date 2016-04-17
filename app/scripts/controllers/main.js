@@ -1,11 +1,11 @@
 'use strict';
 /**
  * @ngdoc function
- * @name sbAdminApp.controller:MainCtrl
+ * @name simpleCRM.controller:MainCtrl
  * @description
  * # MainCtrl
- * Controller of the sbAdminApp
+ * Controller of the simpleCRM
  */
-angular.module('sbAdminApp')
+angular.module('simpleCRM')
   .controller('MainCtrl', function($scope,$position) {
   });
